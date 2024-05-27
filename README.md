@@ -1,4 +1,4 @@
-#  Android MNIST Digits Recognition
+#  MNIST HandWritten Recognition
 Android application that recognise MNIST Handwritten Digits. This is using a Convolutional Neural Network (CNN) model I made and trained with [PyTorch](https://pytorch.org/).  
 This app allows you to recognise images of MNIST Handwritten Digits taken from the [official dataset](http://yann.lecun.com/exdb/mnist/) (but not used during model training). You can also draw your own digits and have them recognised by the model.
 
